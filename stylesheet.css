@@ -3,11 +3,16 @@
 }
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ NAVBAR ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.navbar .navbar-brand, .navbar .navbar-nav .nav-link {
+color: #007FBD;
+
+}
 .navbar {
   font-family: "Georgia";
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 1.25vw;
+  font-size: 1.5vw;
 }
 
 
